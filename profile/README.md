@@ -1,5 +1,5 @@
 ## Hi Heccaze's ! 👋
-<img align="center" alt="GIF"  width="76%" src="https://github.com/Hecca-Zee/.github/blob/main/valo.gif" />
+<img align="center" alt="GIF"  width="100%" src="https://github.com/Hecca-Zee/.github/blob/main/valo.gif" />
 
 **Disclaimer, this is just personal uses. Maybe with just random team who learn how to organize their project**
 
