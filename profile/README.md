@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hi Heccaze's ! 👋
+<img align="center" alt="GIF"  width="76%" src="https://github.com/Hecca-Zee/.github/blob/main/valo.gif" />
 
-<!--
+**Disclaimer, this is just personal uses. Maybe with just random team who learn how to organize their project**
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 🔭 We are currently working on OUR FCKN COLLAGE ASSIGNMENT
+- 🌱 We are currently learning ANYTHING
+- 👯 We are looking to collaborate on GREAT PROJECT
+- 🤔 I’m looking for help with ...
+- 💬 Ask us about NOTHING
+- 📫 How to reach us: ...
+- 😄 Pronouns: Hekazi
+- ⚡ Fun fact: like SLEEP a lot such a POTATO
